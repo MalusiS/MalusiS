@@ -30,9 +30,6 @@ Here are some of my key projects — check them out in my repos!
 - **[XKCD Comic Viewer](https://github.com/MalusiS/Module-Data-Flows/tree/feature/xkcd/fetch/programmer-humour)**  
   Fun app fetching random XKCD comics with caching + async JS.
 
-- **[CodeYourFuture Coursework](https://github.com/malusi-skunyana/cyf-coursework)** *(placeholder repo)*  
-  Projects covering Python, SQL, TDD, pair programming, and GitHub workflows.
-
 ---
 
 ## 📌 Pinned Repositories
