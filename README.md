@@ -21,13 +21,13 @@
 
 Here are some of my key projects — check them out in my repos!
 
-- **[TV Show Explorer App](https://github.com/malusi-skunyana/tv-show-explorer)** *(placeholder repo)*  
+- **[TV Show Explorer App](https://github.com/MalusiS/Project-TV-Show)**  
   Multi-level web app using the TVMaze API (100% Lighthouse Accessibility compliance).
 
-- **[Interactive HR Dashboard](https://github.com/malusi-skunyana/hr-dashboard)** *(placeholder repo)*  
+- **[Interactive HR Dashboard](https://github.com/MalusiS/HR-System)**  
   Single-page dashboard for employee/interview management (HTML, CSS, JavaScript).
 
-- **[XKCD Comic Viewer](https://github.com/malusi-skunyana/xkcd-viewer)** *(placeholder repo)*  
+- **[XKCD Comic Viewer](https://github.com/MalusiS/Module-Data-Flows/tree/feature/xkcd/fetch/programmer-humour)**  
   Fun app fetching random XKCD comics with caching + async JS.
 
 - **[CodeYourFuture Coursework](https://github.com/malusi-skunyana/cyf-coursework)** *(placeholder repo)*  
