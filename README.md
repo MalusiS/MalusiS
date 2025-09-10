@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Malusi Skunyana
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front%20End%20Developer%20%7C%20Data%20Visualizer%20%7C%20Future%20Full%20Stack%20Dev&descAlignY=55)
+https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front%20End%20Developer%20%7C%20Data%20Visualizer%20%7C%20Back-End%20Technologies&descAlignY=55
 
 ---
 
