@@ -44,8 +44,8 @@ Here are some of my key projects — check them out in my repos!
 </p>
 
 <p align="center">
-  <a href="https://github.com/malusi-skunyana/xkcd-viewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusi-skunyana&repo=xkcd-viewer&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/Module-Data-Flows/tree/feature/xkcd/fetch/programmer-humour">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=Module-Data-Flows/tree/feature/xkcd/fetch/programmer-humour&theme=tokyonight" />
   </a>
   <a href="https://github.com/malusi-skunyana/cyf-coursework">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusi-skunyana&repo=cyf-coursework&theme=tokyonight" />
