@@ -84,7 +84,7 @@ Here are some of my key projects — check them out in my repos!
 ## 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/malusis/)  
 - 🗂️ [GitHub Projects](https://github.com/malusis)  
-- 📧 Email: your-email@example.com
+- 📧 Email: malusiskunyana@gmail.com
 
 ---
 
