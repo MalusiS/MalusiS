@@ -44,8 +44,8 @@ Here are some of my key projects — check them out in my repos!
 </p>
 
 <p align="center">
-  <a href="https://github.com/MalusiS/Module-Data-Groups">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=module-data-flows/tree/feature/xkcd/fetch/programmer-humour&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/Module-Data-Flows">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=module-data-flows&theme=tokyonight" />
   </a>
   <a href="https://github.com/MalusiS/Module-Data-Groups">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=module-data-groups&theme=tokyonight" />
