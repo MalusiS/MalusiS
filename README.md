@@ -72,7 +72,7 @@ Here are some of my key projects — check them out in my repos!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=malusis&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malusis&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -82,8 +82,8 @@ Here are some of my key projects — check them out in my repos!
 ---
 
 ## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/malusi-skunyana)  
-- 🗂️ [GitHub Projects](https://github.com/malusi-skunyana)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/malusis/)  
+- 🗂️ [GitHub Projects](https://github.com/malusis)  
 - 📧 Email: your-email@example.com
 
 ---
