@@ -4,7 +4,7 @@
 
 ---
 
-💻 **Front-End Developer | Back End Technologies | Career Transition from Accounting**  
+💻 **Front-End Developer | Aspiring Full Stack Developer | Career Transition from Accounting**  
 🌍 Based in Cape Town, South Africa  
 🚀 Currently expanding into **Full Stack Development**
 
