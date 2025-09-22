@@ -35,8 +35,8 @@ Here are some of my key projects — check them out in my repos!
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/malusi-skunyana/tv-show-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusi-skunyana&repo=tv-show-explorer&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/Project-TV-Show">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
   </a>
   <a href="https://github.com/malusi-skunyana/hr-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusi-skunyana&repo=hr-dashboard&theme=tokyonight" />
