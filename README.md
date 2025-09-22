@@ -38,8 +38,8 @@ Here are some of my key projects — check them out in my repos!
   <a href="https://github.com/MalusiS/Project-TV-Show">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
   </a>
-  <a href="https://github.com/malusi-skunyana/hr-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusi-skunyana&repo=hr-dashboard&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/HR-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=hr-system&theme=tokyonight" />
   </a>
 </p>
 
