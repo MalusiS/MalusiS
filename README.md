@@ -68,15 +68,15 @@ Here are some of my key projects — check them out in my repos!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malusi-skunyana&show_icons=true&theme=tokyonight" alt="Malusi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malusis&show_icons=true&theme=tokyonight" alt="Malusi's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malusi-skunyana&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malusis&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malusi-skunyana&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malusis&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
