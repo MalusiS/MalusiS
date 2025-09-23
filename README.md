@@ -72,7 +72,7 @@ Here are some of my key projects — check them out in my repos!
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MalusiS&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MalusiS&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
