@@ -4,9 +4,9 @@
 
 ---
 
-💻 **Front-End Developer | Aspiring Full Stack Developer | Career Transition from Accounting**  
+💻 **Front-End Developer | Aspiring Full-Stack Developer | Career Transition from Accounting**  
 🌍 Based in Cape Town, South Africa  
-🚀 Currently expanding into **Full Stack Development**
+🚀 Currently expanding into **Full-Stack Development**
 
 ---
 
@@ -56,12 +56,12 @@ Here are some of my key projects — check them out in my repos!
 
 ## 🎓 Certifications & Learning
 - CodeYourFuture – *Intro to Programming* (2025)  
-- freeCodeCamp – *Responsive Web Design, JavaScript Algorithms, Front End Libraries, Data Visualization* (2024)  
+- freeCodeCamp – *Responsive Web Design, JavaScript Algorithms, Front-End Libraries, Data Visualization* (2024)  
 - Upskillist – *Diploma in Coding & Technology* (2024)  
 - University of Cape Town – *Web Design Certificate* (2023)  
 - Boston College – *Bookkeeping Certificate* (2017)
 
-📚 Currently learning: **Back End Development (freeCodeCamp)** → Advanced **Software Development (CodeYourFuture)**
+📚 Currently learning: **Back-End Development (freeCodeCamp)** → Advanced **Software Development (CodeYourFuture)**
 
 ---
 
