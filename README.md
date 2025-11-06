@@ -61,7 +61,7 @@ Here are some of my key projects — check them out in my repos!
 - University of Cape Town – *Web Design Certificate* (2023)  
 - Boston College – *Bookkeeping Certificate* (2017)
 
-📚 Currently learning: **Back-End Development (freeCodeCamp)** → Advanced **Software Development (CodeYourFuture)**
+📚 Currently learning: **Computer Science for Web Programming (Harvard University)** → Advanced **Software Development (CodeYourFuture)**
 
 ---
 
