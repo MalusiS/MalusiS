@@ -1,6 +1,12 @@
 # Malusi Skunyana | Front-End Developer
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Developer%20%7C%20Back-End%20Technologies%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Full-Stack%20Aspirant&descAlignY=55)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/malusis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:malusiskunyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -21,34 +27,34 @@
 
 Here are some of my key projects — check them out in my repos!
 
+- **[Days Calendar Project](https://github.com/MalusiS/Piscine-Sprint-2-Project-Days-Calendar)**  
+  Full-stack calendar solution with Node.js iCal generation and advanced date logic.
+  
 - **[TV Show Explorer App](https://github.com/MalusiS/Project-TV-Show)**  
-  Multi-level web app using the TVMaze API (100% Lighthouse Accessibility compliance).
+  Dynamic multi-view app integrating TVMaze API with advanced search and state management.
 
-- **[Interactive HR Dashboard](https://github.com/MalusiS/HR-System)**  
-  Single-page dashboard for employee/interview management (HTML, CSS, JavaScript).
-
-- **[XKCD Comic Viewer](https://github.com/MalusiS/Module-Data-Flows/tree/feature/xkcd/fetch/programmer-humour)**  
-  Fun app fetching random XKCD comics with caching + async JS.
-
+- **[Spaced Repetition Tracker](https://github.com/MalusiS/Piscine-Sprint-1-Project-Spaced-Repetition-Tracker)**  
+  Interactive web app for spaced repetition, featuring robust form handling and date calculation.
+  
 ---
 
 ## 📌 Pinned Repositories
 
 <p align="center">
+  <a href="https://github.com/MalusiS/Piscine-Sprint-2-Project-Days-Calendar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-2-project-days-calendar&theme=tokyonight" />
+  </a>
   <a href="https://github.com/MalusiS/Project-TV-Show">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MalusiS/HR-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=hr-system&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MalusiS/Module-Data-Flows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=module-data-flows&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/Piscine-Sprint-1-Project-Spaced-Repetition-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-1-project-spaced-repetition-tracker&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalusiS/Module-Data-Groups">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=module-data-groups&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/Piscine-Sprint-3-Project-Shared-Bookmarks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-3-project-shared-bookmarks&theme=tokyonight" />
   </a>
 </p>
 
