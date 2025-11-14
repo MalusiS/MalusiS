@@ -3,6 +3,8 @@
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Full-Stack%20Aspirant&descAlignY=55)
 
 <p align="center">
+  <a href="https://malusis.tech"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/malusis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:malusiskunyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -88,9 +90,9 @@ Here are some of my key projects — check them out in my repos!
 ---
 
 ## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/malusis/)  
-- 🗂️ [GitHub Projects](https://github.com/malusis)  
-- 📧 Email: malusiskunyana@gmail.com
+- 🌐 **Portfolio:** https://malusis.tech  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/malusis/ 
+- 📧 **Email:** malusiskunyana@gmail.com
 
 ---
 
