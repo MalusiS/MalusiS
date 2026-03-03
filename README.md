@@ -29,34 +29,34 @@
 
 Here are some of my key projects — check them out in my repos!
 
-- **[Days Calendar Project](https://github.com/MalusiS/Piscine-Sprint-2-Project-Days-Calendar)**  
-  Full-stack calendar solution with Node.js iCal generation and advanced date logic.
+- **[Personal Portfolio Website](https://github.com/MalusiS/malusi-skunyana)**  
+  High-performance SPA with perfect Lighthouse scores and responsive design.
   
-- **[TV Show Explorer App](https://github.com/MalusiS/Project-TV-Show)**  
-  Dynamic multi-view app integrating TVMaze API with advanced search and state management.
+- **[HR Management Dashboard](https://github.com/MalusiS/HR-System)**  
+  Employee tracking tool digitising HR workflows with real-time features.
 
-- **[Spaced Repetition Tracker](https://github.com/MalusiS/Piscine-Sprint-1-Project-Spaced-Repetition-Tracker)**  
-  Interactive web app for spaced repetition, featuring robust form handling and date calculation.
+- **[Shared Bookmarks Manager](https://github.com/MalusiS/Piscine-Sprint-3-Project-Shared-Bookmarks)**  
+  WCAG-compliant utility for bookmark persistence and validation.
   
 ---
 
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/MalusiS/Piscine-Sprint-2-Project-Days-Calendar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-2-project-days-calendar&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/malusi-skunyana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=malusi-skunyana&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalusiS/Project-TV-Show">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/HR-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=hr-system&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MalusiS/Piscine-Sprint-1-Project-Spaced-Repetition-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-1-project-spaced-repetition-tracker&theme=tokyonight" />
-  </a>
   <a href="https://github.com/MalusiS/Piscine-Sprint-3-Project-Shared-Bookmarks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-3-project-shared-bookmarks&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/MalusiS/Project-TV-Show">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
   </a>
 </p>
 
