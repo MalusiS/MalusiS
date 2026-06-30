@@ -1,9 +1,9 @@
-# Malusi Skunyana | Front-End Developer
-
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Full-Stack%20Aspirant&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Engineer%20→%20Systems%20Engineer%20%7C%20Founder%20@%20WorkCentrik&descAlignY=55)
 
 <p align="center">
   <a href="https://malusis.tech"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://cs.malusis.tech"><img src="https://img.shields.io/badge/CS%20Transcript-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CS Transcript"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/malusis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
@@ -12,64 +12,87 @@
 
 ---
 
-💻 **Front-End Developer | Aspiring Full-Stack Developer | Career Transition from Accounting**  
-🌍 Based in Cape Town, South Africa  
-🚀 Currently expanding into **Full-Stack Development**
+💻 **Front-End Engineer & Founder @ WorkCentrik** | Transitioning to **Systems & Software Engineering**  
+🎓 Self-directing a rigorous **176-credit B.Sc. in Computer Science** (2026–2031) equivalent to MIT/CMU/Stanford.  
+🌍 Based in Cape Town, South Africa | 🚀 Building production-grade web platforms
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages & Libraries:** JavaScript (ES6+), Python, SQL, React, Redux, Bootstrap, Sass, jQuery, D3.js  
-- **Software Development Skills:** Git, GitHub, Node.js, APIs, Unit Testing, TDD, Debugging, Specification by Example, Code Review, Pair Programming  
-- **Workplace Tools & Practices:** Kanban, Agile Workflows, Office Tools, Gen AI Prompting, Responsive Web Design, UI/UX basics, Linux
+## 👨🏾‍💻 About Me
+I am a detail-oriented Front-End Engineer with an accounting background, blending extreme analytical precision with elite web architecture. I am the Founder of [WorkCentrik](https://workcentrik.com), a digital agency delivering production-grade web platforms using React, JavaScript, and modern CSS. I design and develop web platforms with a focus on accessibility, performance, maintainability, and user experience.
+
+Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Science (Systems & Software Engineering) equivalent to MIT, Stanford, and CMU curricula. I am transitioning from browser-level UI engineering to deep infrastructure, distributed systems, and fault-tolerant backend architecture.
+
+---
+
+## 🔧 Technologies & Skills
+- **Front-End Engineering:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS, Sass, Redux, Responsive Design, Accessibility Engineering (WCAG AA).
+- **Back-End & Data:** Node.js, SQL, REST APIs, JSON/LocalStorage.
+- **DevOps & Infrastructure:** Git, GitHub, CI/CD, Linux, Netlify, Vite.
+- **Software Engineering:** Test-Driven Development (TDD), Unit Testing, Code Reviews, Agile Development, Kanban, Technical Documentation, Performance Optimization, Technical SEO.
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some of my key projects — check them out in my repos!
+### 🚀 [WorkCentrik Corporate Website](https://workcentrik.com)
+**Agency Infrastructure & Corporate Hub**
+- Engineered a premium, Lighthouse-100 optimized corporate website focusing on bespoke UI design, flawless accessibility, and technical SEO.
+- Designed a custom IntersectionObserver ScrollSpy with reverse DOM-order evaluation for precise navigation tracking across dynamic layouts.
+- Implemented a dual-channel lead generation system featuring dynamic WhatsApp routing and seamless Formspree integration.
+- **Stack:** `React 18` • `Vite` • `Custom CSS3` • `Formspree` • `Lucide React`
 
-- **[Personal Portfolio Website](https://github.com/MalusiS/malusi-skunyana)**  
-  High-performance SPA with perfect Lighthouse scores and responsive design.
-  
-- **[HR Management Dashboard](https://github.com/MalusiS/HR-System)**  
-  Employee tracking tool digitising HR workflows with real-time features.
+### 🌍 [AMO South Africa — Official Website](https://amosouthafrica.org)
+**High-Authority Non-Profit SPA**
+- Developed a high-performance, multi-page Single Page Application (SPA) utilising a modern dark-themed aesthetic and glassmorphism to drive non-profit community engagement.
+- Architected a persistent global layout integrated with serverless Netlify Forms for secure, backend-free message routing directly to the organization's inbox.
+- Delivered a fully responsive, WCAG AA compliant interface achieving a verified 100/100 Lighthouse accessibility score.
+- **Stack:** `React 18` • `React Router` • `Vite` • `Tailwind CSS` • `Netlify`
 
-- **[Shared Bookmarks Manager](https://github.com/MalusiS/Piscine-Sprint-3-Project-Shared-Bookmarks)**  
-  WCAG-compliant utility for bookmark persistence and validation.
-  
+### 💻 [Personal Portfolio Website](https://malusis.tech)
+**High-Performance Engineering Showcase**
+- Engineered a high-performance single-page portfolio achieving perfect 100/100 Google Lighthouse scores across all categories.
+- Designed a responsive, mobile-first UI utilising custom React components, Tailwind CSS utility classes, and a serverless Formspree API integration.
+- Optimized asset delivery and integrated comprehensive JSON-LD and OpenGraph meta tagging to maximize technical SEO and social sharing performance.
+- **Stack:** `React` • `Vite` • `Tailwind CSS` • `Netlify`
+
 ---
 
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/MalusiS/malusi-skunyana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=malusi-skunyana&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/workcentrik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=workcentrik&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalusiS/HR-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=hr-system&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/amo-south-africa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=amo-south-africa&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MalusiS/Piscine-Sprint-3-Project-Shared-Bookmarks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=piscine-sprint-3-project-shared-bookmarks&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/malusi-skunyana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=malusi-skunyana&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalusiS/Project-TV-Show">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=project-tv-show&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/bsc-cs-curriculum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=bsc-cs-curriculum&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## 🎓 Certifications & Learning
-- CodeYourFuture – *Intro to Programming* (2025)  
-- freeCodeCamp – *Responsive Web Design, JavaScript Algorithms, Front-End Libraries, Data Visualization* (2024)  
-- Upskillist – *Diploma in Coding & Technology* (2024)  
-- University of Cape Town – *Web Design Certificate* (2023)  
-- Boston College – *Bookkeeping Certificate* (2017)
+## 🎓 Education & Certifications
 
-📚 Currently learning: **Computer Science for Web Programming (Harvard University)** → Advanced **Software Development (CodeYourFuture)**
+**B.Sc. Computer Science (Systems & Software Engineering)** | *Self-Directed* | 2026 – 2031
+- **Curriculum:** 176 Semester Credits equivalent to MIT, CMU, and Stanford core CS programs.
+- **Specialization:** Software Engineering, Systems & Networking, Cloud & Infrastructure, and Artificial Intelligence.
+- **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
+
+**Additional Certifications:**
+- **Introduction to Programming** | Code Your Future (2025)
+- **Diploma in Coding & Technology** | Upskillist (2024)
+- **Developer Certifications** | freeCodeCamp (Responsive Web Design, JS Algorithms, Front-End Libraries, Data Visualisation) (2024)
+- **Web Design Certificate** | University of Cape Town (2023)
+- **Bookkeeping Certificate** | Boston College, Cape Town (2017)
 
 ---
 
@@ -90,10 +113,11 @@ Here are some of my key projects — check them out in my repos!
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 **Portfolio:** https://malusis.tech  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/malusis/ 
+- 🌐 **Professional Portfolio:** https://malusis.tech  
+- 🎓 **CS Transcript & Metrics:** https://cs.malusis.tech
+- 💼 **LinkedIn:** https://www.linkedin.com/in/malusis/  
 - 📧 **Email:** malusiskunyana@gmail.com
 
 ---
 
-✨ Thanks for visiting my profile! Always open to collaboration, code reviews, and opportunities to grow as a developer.
+✨ Thanks for visiting my profile! Always open to architecture reviews, collaboration, code reviews, and opportunities to grow as a systems engineer.
