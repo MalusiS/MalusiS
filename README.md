@@ -61,8 +61,8 @@ Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Scienc
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/MalusiS/workcentrik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=workcentrik&theme=tokyonight" />
+  <a href="https://github.com/MalusiS/workcentrik-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=workcentrik-site&theme=tokyonight" />
   </a>
   <a href="https://github.com/MalusiS/amo-south-africa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=amo-south-africa&theme=tokyonight" />
