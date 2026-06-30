@@ -21,7 +21,7 @@
 ## 👨🏾‍💻 About Me
 I am a detail-oriented Front-End Engineer with an accounting background, blending extreme analytical precision with elite web architecture. I am the Founder of [WorkCentrik](https://workcentrik.com), a digital agency delivering production-grade web platforms using React, JavaScript, and modern CSS. I design and develop web platforms with a focus on accessibility, performance, maintainability, and user experience.
 
-Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Science (Systems & Software Engineering) equivalent to MIT, Stanford, and CMU curricula. I am transitioning from browser-level UI engineering to deep infrastructure, distributed systems, and fault-tolerant backend architecture.
+Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Science (Systems & Software Engineering) equivalent to MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
 
 ---
 
@@ -33,7 +33,7 @@ Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Scienc
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Technical Projects
 
 ### 🚀 [WorkCentrik Corporate Website](https://workcentrik.com)
 **Agency Infrastructure & Corporate Hub**
@@ -80,14 +80,14 @@ Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Scienc
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 **B.Sc. Computer Science (Systems & Software Engineering)** | *Self-Directed* | 2026 – 2031
-- **Curriculum:** 176 Semester Credits equivalent to MIT, CMU, and Stanford core CS programs.
-- **Specialization:** Software Engineering, Systems & Networking, Cloud & Infrastructure, and Artificial Intelligence.
+- **Curriculum:** 176 Semester Credits equivalent to MIT, Stanford, and CMU core CS programs.
+- **Specialization:** Software Engineering, Distributed Systems, Cloud Infrastructure, and Security Engineering.
 - **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
 
-**Additional Certifications:**
+**Certifications & Diplomas:**
 - **Introduction to Programming** | Code Your Future (2025)
 - **Diploma in Coding & Technology** | Upskillist (2024)
 - **Developer Certifications** | freeCodeCamp (Responsive Web Design, JS Algorithms, Front-End Libraries, Data Visualisation) (2024)
@@ -120,4 +120,4 @@ Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Scienc
 
 ---
 
-✨ Thanks for visiting my profile! Always open to architecture reviews, collaboration, code reviews, and opportunities to grow as a systems engineer.
+✨ Thanks for visiting my profile! Always open to architecture reviews, collaboration, code reviews, and opportunities to grow as an engineer.
