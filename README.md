@@ -75,26 +75,34 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
   <a href="https://github.com/MalusiS/malusi-skunyana">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=malusi-skunyana&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalusiS/bsc-cs-curriculum">
+ <!-- <a href="https://github.com/MalusiS/bsc-cs-curriculum">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malusis&repo=bsc-cs-curriculum&theme=tokyonight" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Computer Science (Systems & Software Engineering)** | *Self-Directed* | 2026 – 2031
+**B.Sc. Computer Science (Systems & Software Engineering) | Self-Directed** | *2026 – 2031*
 - **Curriculum:** 176 Semester Credits equivalent to MIT, Stanford, and CMU core CS programs.
 - **Specialization:** Software Engineering, Distributed Systems, Cloud Infrastructure, and Security Engineering.
 - **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
-
-**Certifications & Diplomas:**
-- **Introduction to Programming** | Code Your Future (2025)
-- **Diploma in Coding & Technology** | Upskillist (2024)
-- **Developer Certifications** | freeCodeCamp (Responsive Web Design, JS Algorithms, Front-End Libraries, Data Visualisation) (2024)
-- **Web Design Certificate** | University of Cape Town (2023)
-- **Bookkeeping Certificate** | Boston College, Cape Town (2017)
+  
+**Introduction to Programming | Code Your Future** | *2025*
+- Intensive bootcamp covering HTML, CSS, JavaScript fundamentals, and full web application deployment.
+  
+**Diploma in Coding & Technology | Upskillist** | *2024*
+- Comprehensive diploma covering software development fundamentals, web technologies, and programming best practices.
+  
+**Developer Certifications | freeCodeCamp** | *2024*
+- Responsive Web Design, JavaScript Algorithms and Data Structures, Front-End Libraries, Data Visualization.
+  
+**Web Design Certificate | University of Cape Town** | *2023*
+- Foundations in web design principles, UX/UI basics, and responsive design techniques.
+  
+**Bookkeeping Certificate | Boston College, Cape Town** | *2017*
+- Financial accounting fundamentals, ledger management, and data reconciliation.
 
 ---
 
