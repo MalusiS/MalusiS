@@ -94,6 +94,7 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
   * MIT 6.042J — Mathematics for Computer Science
   * MIT 18.06 — Linear Algebra
   * University of Helsinki — Java Programming I & II
+  * MIT 8.01 — Physics I
   
 **Introduction to Programming | Code Your Future** | *2025*
 - Intensive bootcamp covering HTML, CSS, JavaScript fundamentals, and full web application deployment.
