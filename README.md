@@ -88,6 +88,12 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
 - **Curriculum:** 176 Semester Credits equivalent to MIT, Stanford, and CMU core CS programs.
 - **Specialization:** Software Engineering, Distributed Systems, Cloud Infrastructure, and Security Engineering.
 - **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
+  * Harvard CS50x — Introduction to Computer Science
+  * Harvard CS50W — Web Programming with Python and JavaScript
+  * MIT 18.01 — Calculus I & II
+  * MIT 6.042J — Mathematics for Computer Science
+  * MIT 18.06 — Linear Algebra
+  * University of Helsinki — Java Programming I & II
   
 **Introduction to Programming | Code Your Future** | *2025*
 - Intensive bootcamp covering HTML, CSS, JavaScript fundamentals, and full web application deployment.
