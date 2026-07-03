@@ -28,7 +28,7 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
 ---
 
 ## 🔧 Technologies & Skills
-- **Front-End Engineering:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS, Sass, Redux, Responsive Design, Accessibility Engineering (WCAG AA).
+- **Front-End Engineering:** JavaScript (ES6+), React, Next.js, HTML5, CSS3, Tailwind CSS, Sass, Redux, Responsive Design, Accessibility Engineering (WCAG AA).
 - **Back-End & Data:** Node.js, SQL, REST APIs, JSON/LocalStorage.
 - **DevOps & Infrastructure:** Git, GitHub, CI/CD, Linux, Netlify, Vite.
 - **Software Engineering:** Test-Driven Development (TDD), Unit Testing, Code Reviews, Agile Development, Kanban, Technical Documentation, Performance Optimization, Technical SEO.
