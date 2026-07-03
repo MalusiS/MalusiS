@@ -1,10 +1,10 @@
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Front-End%20Engineer%20→%20Systems%20Engineer%20%7C%20Founder%20@%20WorkCentrik&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Software%20Engineer%20%7C%20Founder%20@%20WorkCentrik%20%7C%20B.Sc.%20CS%20Candidate&descAlignY=55)
 
 <p align="center">
   <a href="https://malusis.tech"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   &nbsp;
-  <a href="https://cs.malusis.tech"><img src="https://img.shields.io/badge/CS%20Transcript-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CS Transcript"></a>
-  &nbsp;
+<!--  <a href="https://cs.malusis.tech"><img src="https://img.shields.io/badge/CS%20Transcript-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CS Transcript"></a>
+  &nbsp; -->
   <a href="https://www.linkedin.com/in/malusis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:malusiskunyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -18,10 +18,12 @@
 
 ---
 
-## 👨🏾‍💻 About Me
-I am a detail-oriented Front-End Engineer with an accounting background, blending extreme analytical precision with elite web architecture. I am the Founder of [WorkCentrik](https://workcentrik.com), a digital agency delivering production-grade web platforms using React, JavaScript, and modern CSS. I design and develop web platforms with a focus on accessibility, performance, maintainability, and user experience.
+> **"Evidence beats credentials. Process beats products. Consistency beats intensity."**
 
-Concurrently, I am self-directing a rigorous 176-credit B.Sc. in Computer Science (Systems & Software Engineering) equivalent to MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
+## 👨🏾‍💻 About Me
+I am a Software Engineer with an accounting background, blending analytical precision with modern web architecture. I am the Founder of [WorkCentrik](https://workcentrik.com), a digital agency delivering production-grade web platforms using React, JavaScript, and modern CSS. I design and develop web platforms with a focus on accessibility, performance, maintainability, and user experience.
+
+Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. in Computer Science (Systems & Software Engineering), modeled after MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
 
 ---
 
