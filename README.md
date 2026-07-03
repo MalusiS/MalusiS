@@ -12,8 +12,8 @@
 
 ---
 
-💻 **Front-End Engineer & Founder @ WorkCentrik** | Transitioning to **Systems & Software Engineering**  
-🎓 Self-directing a rigorous **176-credit B.Sc. in Computer Science** equivalent to MIT/Stanford/CMU curricula  
+💻 **Software Engineer | Founder, WorkCentrik | B.Sc. CS (Systems & Software Engineering) Candidate**  
+🎓 Self-directing a rigorous 176-credit B.Sc. in Computer Science equivalent to MIT/Stanford/CMU curricula  
 🌍 Based in Cape Town, South Africa | 🚀 Building production-grade web platforms
 
 ---
@@ -129,4 +129,4 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
 
 ---
 
-✨ Thanks for visiting my profile! Always open to architecture reviews, collaboration, code reviews, and opportunities to grow as an engineer.
+✨ Thanks for visiting my profile! Always open to architecture reviews, collaboration, code reviews, and opportunities to grow as a Software Engineer.
