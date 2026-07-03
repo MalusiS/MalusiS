@@ -123,8 +123,7 @@ Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. i
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 **Professional Portfolio:** https://malusis.tech  
-- 🎓 **CS Transcript & Metrics:** https://cs.malusis.tech
+- 🌐 **Professional Portfolio:** https://malusis.tech  <!-- - 🎓 **CS Transcript & Metrics:** https://cs.malusis.tech -->
 - 💼 **LinkedIn:** https://www.linkedin.com/in/malusis/  
 - 📧 **Email:** malusiskunyana@gmail.com
 
