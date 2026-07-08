@@ -86,7 +86,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 
 ## 🎓 Education
 
-**B.Sc. Computer Science (Systems & Software Engineering) | Self-Directed** | *2026 – 2031*
+**B.Sc. Computer Science (Systems & Software Engineering) | Independent Study** | *2026 – 2031*
 - **Curriculum:** 176 Semester Credits equivalent to MIT, Stanford, and CMU core CS programs.
 - **Specialization:** Software Engineering, Distributed Systems, Cloud Infrastructure, and Security Engineering.
 - **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
