@@ -111,7 +111,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 - Foundations in web design principles, UX/UI basics, and responsive design techniques.
   
 **Bookkeeping Certificate | Boston College, Cape Town** | *2017*
-- Financial accounting fundamentals, ledger management, and data reconciliation.
+- Financial program covering bookkeeping, financial accounting, payroll administration, tax compliance, and practical business literacy.
 
 ---
 
