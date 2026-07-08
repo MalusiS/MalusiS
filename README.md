@@ -25,6 +25,8 @@ I am a Software Engineer with an accounting background, blending analytical prec
 
 Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. in Computer Science (Systems & Software Engineering), modeled after MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
 
+My long-term goal is to become a Systems & Software Engineer capable of designing, building, securing, deploying, and operating large-scale distributed software systems.
+
 ---
 
 ## 🔧 Technologies & Skills
