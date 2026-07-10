@@ -98,7 +98,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
   * University of Helsinki — Java Programming I & II
   * MIT 8.01 — Physics I
   
-**Introduction to Programming | Code Your Future** | *2025*
+**Introduction to Programming | CodeYourFuture** | *2025*
 - Intensive bootcamp covering HTML, CSS, JavaScript fundamentals, and full web application deployment.
   
 **Diploma in Coding & Technology | Upskillist** | *2024*
@@ -110,7 +110,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 **Web Design Certificate | University of Cape Town** | *2023*
 - Foundations in web design principles, UX/UI basics, and responsive design techniques.
   
-**Bookkeeping Certificate | Boston College, Cape Town** | *2017*
+**Bookkeeping Certificate | Boston City Campus, Cape Town** | *2017*
 - Financial program covering bookkeeping, financial accounting, payroll administration, tax compliance, and practical business literacy.
 
 ---
