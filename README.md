@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Software%20Engineer%20%7C%20Founder%20@%20WorkCentrik%20%7C%20B.Sc.%20CS%20Candidate&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Software%20Engineer%20%7C%20Founder,%20WorkCentrik%20%7C%20B.Sc.%20CS%20Candidate&descAlignY=55)
 
 <p align="center">
   <a href="https://malusis.tech"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
