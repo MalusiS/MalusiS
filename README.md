@@ -13,7 +13,7 @@
 ---
 
 💻 **Software Engineer | Founder, WorkCentrik | B.Sc. CS (Systems & Software Engineering) Candidate**  
-🎓 Self-directing a rigorous 176-credit B.Sc. in Computer Science equivalent to MIT/Stanford/CMU curricula  
+🎓 Self-directing a rigorous 176-credit B.Sc. in Computer Science modeled after MIT/Stanford/CMU curricula  
 🌍 Based in Cape Town, South Africa | 🚀 Building production-grade web platforms
 
 ---
@@ -87,7 +87,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 ## 🎓 Education
 
 **B.Sc. Computer Science (Systems & Software Engineering) | Independent Study** | *2026 – 2031*
-- **Curriculum:** 176 Semester Credits equivalent to MIT, Stanford, and CMU core CS programs.
+- **Curriculum:** 176 Semester Credits modeled after MIT, Stanford, and CMU core CS programs.
 - **Specialization:** Software Engineering, Distributed Systems, Cloud Infrastructure, and Security Engineering.
 - **Current Progress:** Year 1 (Foundations, Math, and Core Programming).
   * Harvard CS50x — Introduction to Computer Science
