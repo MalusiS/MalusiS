@@ -13,7 +13,7 @@
 ---
 
 💻 **Software Engineer | Founder, WorkCentrik | B.Sc. CS (Systems & Software Engineering) Candidate**  
-🎓 Self-directing a rigorous 176-credit B.Sc. in Computer Science modeled after MIT/Stanford/CMU curricula  
+🎓 Self-directing a rigorous 176-credit B.Sc. in Computer Science, modeled after MIT/Stanford/CMU curricula  
 🌍 Based in Cape Town, South Africa | 🚀 Building production-grade web platforms
 
 ---
