@@ -23,7 +23,7 @@
 ## 👨🏾‍💻 About Me
 I am a Software Engineer with an accounting background, blending analytical precision with modern web architecture. I am the Founder of [WorkCentrik](https://workcentrik.com), a digital agency delivering production-grade web platforms using React, JavaScript, and modern CSS. I design and develop web platforms with a focus on accessibility, performance, maintainability, and user experience.
 
-Currently, I am expanding my expertise through a rigorous, self-directed B.Sc. in Computer Science (Systems & Software Engineering), modeled after MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
+Concurrently, I am expanding my expertise through a rigorous, self-directed B.Sc. in Computer Science (Systems & Software Engineering), modeled after MIT, Stanford, and CMU curricula, focusing on distributed systems, operating systems, and infrastructure engineering.
 
 My long-term goal is to become a Systems Engineer capable of designing, building, securing, deploying, and operating large-scale distributed software systems.
 
