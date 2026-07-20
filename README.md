@@ -53,12 +53,12 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 - Delivered a fully responsive, WCAG AA compliant interface achieving a verified 100/100 Lighthouse accessibility score.
 - **Stack:** `React 18` • `React Router` • `Vite` • `Tailwind CSS` • `Netlify`
 
-### 💻 [Personal Portfolio Website](https://malusis.tech)
+### 💻 [Engineering Portfolio](https://malusis.tech)
 **High-Performance Engineering Showcase**
-- Engineered a high-performance single-page portfolio achieving perfect 100/100 Google Lighthouse scores across all categories.
-- Designed a responsive, mobile-first UI utilising custom React components, Tailwind CSS utility classes, and a serverless Formspree API integration.
+- Architected a production-grade, config-driven portfolio, decoupling UI presentation from project data to create a scalable, tiered project hierarchy.
+- Engineered for elite performance and accessibility, utilizing React.lazy and Suspense for modal code-splitting to guarantee verified 100/100 Lighthouse scores across all metrics.
 - Optimized asset delivery and integrated comprehensive JSON-LD and OpenGraph meta tagging to maximize technical SEO and social sharing performance.
-- **Stack:** `React` • `Vite` • `Tailwind CSS` • `Netlify`
+- **Stack:** `React 19` • `Vite 7` • `Tailwind CSS v4` • `Netlify`
 
 ---
 
