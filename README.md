@@ -56,7 +56,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 ### 💻 [Engineering Portfolio](https://malusis.tech)
 **High-Performance Engineering Showcase**
 - Architected a production-grade, config-driven portfolio, decoupling UI presentation from project data to create a scalable, tiered project hierarchy.
-- Engineered for elite performance and accessibility, utilizing React.lazy and Suspense for modal code-splitting to guarantee verified 100/100 Lighthouse scores across all metrics.
+- Engineered for elite performance and accessibility, utilizing React.lazy and Suspense for modal code-splitting to guarantee a verified 100/100 Lighthouse score.
 - Optimized asset delivery and integrated comprehensive JSON-LD and OpenGraph meta tagging to maximize technical SEO and social sharing performance.
 - **Stack:** `React 19` • `Vite 7` • `Tailwind CSS v4` • `Netlify`
 
