@@ -1,9 +1,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Malusi%20Skunyana&fontSize=40&fontAlignY=30&desc=Software%20Engineer%20%7C%20Founder,%20WorkCentrik%20%7C%20B.Sc.%20CS%20Candidate&descAlignY=55)
 
 <p align="center">
-  <a href="https://malusis.tech"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://malusiskunyana.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   &nbsp;
-<!--  <a href="https://cs.malusis.tech"><img src="https://img.shields.io/badge/CS%20Transcript-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CS Transcript"></a>
+<!--  <a href="https://cs.malusiskunyana.com"><img src="https://img.shields.io/badge/CS%20Transcript-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CS Transcript"></a>
   &nbsp; -->
   <a href="https://www.linkedin.com/in/malusis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
@@ -53,7 +53,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 - Delivered a fully responsive, WCAG AA compliant interface achieving a verified 100/100 Lighthouse accessibility score.
 - **Stack:** `React 18` • `React Router` • `Vite` • `Tailwind CSS` • `Netlify`
 
-### 💻 [Engineering Portfolio](https://malusis.tech)
+### 💻 [Engineering Portfolio](https://malusiskunyana.com)
 **High-Performance Engineering Showcase**
 - Architected a production-grade, config-driven portfolio, decoupling UI presentation from project data to create a scalable, tiered project hierarchy.
 - Engineered for elite performance and accessibility, utilizing React.lazy and Suspense for modal code-splitting to guarantee a verified 100/100 Lighthouse score.
@@ -132,7 +132,7 @@ My long-term goal is to become a Systems Engineer capable of designing, building
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 **Professional Portfolio:** https://malusis.tech  <!-- - 🎓 **CS Transcript & Metrics:** https://cs.malusis.tech -->
+- 🌐 **Professional Portfolio:** https://malusiskunyana.com  <!-- - 🎓 **CS Transcript & Metrics:** https://cs.malusiskunyana.com -->
 - 💼 **LinkedIn:** https://www.linkedin.com/in/malusis/  
 - 📧 **Email:** malusiskunyana@gmail.com
 
